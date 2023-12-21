@@ -1,6 +1,6 @@
 # Data-Glacier-Data-Analyst-Intern
 
-Week 1 ( 30th November - 6th December 2023)
+Week 1 
 
 Overview
 
