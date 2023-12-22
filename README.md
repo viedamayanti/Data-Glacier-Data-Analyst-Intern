@@ -78,11 +78,8 @@ Recommendation
 
 The data strongly suggests that the Yellow Cab company presents a more promising investment opportunity for XYZ due to its consistently better performance and profitability metrics.
 
-Assignment link:
+Assignment link: https://github.com/viedamayanti/Data-Glacier-Data-Analyst-Intern/tree/main/Week2
 
 Assignments Week 2 Completed ✅
-
-
-Assignments Completed
 
 
