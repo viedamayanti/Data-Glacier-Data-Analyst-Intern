@@ -55,12 +55,12 @@ Project Outcome
 
 Yellow Cab's Profitability Insights:
 
-Based on comprehensive analysis of the provided data, it's evident that the Yellow Cab company demonstrates superior performance compared to the Pink Cab in various aspects:
+Based on the comprehensive analysis of the provided data, it's evident that the Yellow Cab company demonstrates superior performance compared to the Pink Cab in various aspects:
 
 1. Financial Performance:
 
 - Profitability: Yellow Cab exhibits consistently higher profits and margins.
-- Revenue Trends: Our analysis shows promising revenue patterns favoring Yellow Cab.
+- Revenue Trends: The analysis shows promising revenue patterns favoring Yellow Cab.
 - Comparative Analysis: Yellow Cab's financial metrics outshine Pink Cab across multiple categories.
 
 2. Customer Behavior and Satisfaction:
