@@ -3,8 +3,9 @@
 <<<<<<< HEAD
 Week 1
 =======
-Week 1 
->>>>>>> d912ac51f938fa2f34724038cec43b1c6ed4b39c
+Week 1
+
+> > > > > > > d912ac51f938fa2f34724038cec43b1c6ed4b39c
 
 Overview
 
@@ -22,7 +23,6 @@ Agile Quiz: Completion of an Agile quiz to test understanding of Agile methodolo
 
 Assignment link : https://github.com/viedamayanti/Data-Glacier-Data-Analyst-Intern/tree/main/Week1
 
-<<<<<<< HEAD
 Assignments Completed ✅
 
 Week 2
@@ -81,11 +81,6 @@ Recommendation
 
 The data strongly suggests that the Yellow Cab company presents a more promising investment opportunity for XYZ due to its consistently better performance and profitability metrics.
 
-Assignment link:
+Assignment link: https://github.com/viedamayanti/Data-Glacier-Data-Analyst-Intern/tree/main/Week2
 
 Assignments Week 2 Completed ✅
-=======
-
-Assignments Completed
-
->>>>>>> d912ac51f938fa2f34724038cec43b1c6ed4b39c
