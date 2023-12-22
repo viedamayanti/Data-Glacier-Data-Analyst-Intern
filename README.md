@@ -1,11 +1,14 @@
 # Data-Glacier-Data-Analyst-Intern
 
-<<<<<<< HEAD
+
 Week 1
+<<<<<<< HEAD
 =======
 Week 1
 
 > > > > > > > d912ac51f938fa2f34724038cec43b1c6ed4b39c
+=======
+>>>>>>> 9bb81d2cc90ca36d07069800cfacd025e8f0d86f
 
 Overview
 
@@ -23,6 +26,10 @@ Agile Quiz: Completion of an Agile quiz to test understanding of Agile methodolo
 
 Assignment link : https://github.com/viedamayanti/Data-Glacier-Data-Analyst-Intern/tree/main/Week1
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 9bb81d2cc90ca36d07069800cfacd025e8f0d86f
 Assignments Completed ✅
 
 Week 2
@@ -84,3 +91,8 @@ The data strongly suggests that the Yellow Cab company presents a more promising
 Assignment link: https://github.com/viedamayanti/Data-Glacier-Data-Analyst-Intern/tree/main/Week2
 
 Assignments Week 2 Completed ✅
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 9bb81d2cc90ca36d07069800cfacd025e8f0d86f
