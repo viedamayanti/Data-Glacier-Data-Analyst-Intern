@@ -18,6 +18,10 @@ Agile Quiz: Completion of an Agile quiz to test understanding of Agile methodolo
 
 Assignment link : https://github.com/viedamayanti/Data-Glacier-Data-Analyst-Intern/tree/main/Week1
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> b4d1cd34a4044c2d704f4b7bbb6a6a7d4d18a8cf
 Assignments Completed ✅
 
 Week 2
@@ -82,6 +86,7 @@ Assignments Week 2 Completed ✅
 
 Week 3
 
+<<<<<<< HEAD
 Project Overview
 This task showcases the analysis conducted in Week 2 using Python (Jupyter Notebook) and is presented through both a PowerPoint file and a PDF.
 
@@ -93,3 +98,5 @@ Focus of Week 3
 This week emphasizes visualizing data to facilitate clearer insights for stockholders in their investment decision-making process. The emphasis is on showcasing visualizations derived from the Week 2 analysis.
 
 Completed Week 3 Assignments ✅
+=======
+>>>>>>> b4d1cd34a4044c2d704f4b7bbb6a6a7d4d18a8cf
