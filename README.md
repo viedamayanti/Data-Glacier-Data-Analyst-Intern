@@ -83,10 +83,13 @@ Assignments Week 2 Completed ✅
 Week 3
 
 Project Overview
-This task is showcasing the analysis conducted in Week 2 using Python (Jupyter Notebook) and presented through a PowerPoint presentation both with powerpoint file and pdf file
+This task showcases the analysis conducted in Week 2 using Python (Jupyter Notebook) and is presented through both a PowerPoint file and a PDF.
 
 Contents
-Python Analysis: Code and Jupyter Notebook files used for data analysis in Week 2.
-PowerPoint Presentation: Slide deck summarizing the findings and insights derived from the Python analysis.
+Python Analysis: Includes code and Jupyter Notebook files used for data analysis in Week 2.
+PowerPoint Presentation: A slide deck summarizing findings and insights derived from the Python analysis.
 
-Assignments Week 3 Completed ✅
+Focus of Week 3
+This week emphasizes visualizing data to facilitate clearer insights for stockholders in their investment decision-making process. The emphasis is on showcasing visualizations derived from the Week 2 analysis.
+
+Completed Week 3 Assignments ✅
