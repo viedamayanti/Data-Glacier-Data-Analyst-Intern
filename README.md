@@ -20,6 +20,8 @@ Assignment link : https://github.com/viedamayanti/Data-Glacier-Data-Analyst-Inte
 
 Assignments Completed ✅
 
+
+
 Week 2
 
 Project Overview
@@ -79,6 +81,8 @@ The data strongly suggests that the Yellow Cab company presents a more promising
 Assignment link: https://github.com/viedamayanti/Data-Glacier-Data-Analyst-Intern/tree/main/Week2
 
 Assignments Week 2 Completed ✅
+
+
 
 Week 3
 
