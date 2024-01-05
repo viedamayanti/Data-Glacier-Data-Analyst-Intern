@@ -20,8 +20,6 @@ Assignment link : https://github.com/viedamayanti/Data-Glacier-Data-Analyst-Inte
 
 Assignments Completed ✅
 
-
-
 Week 2
 
 Project Overview
@@ -82,8 +80,6 @@ Assignment link: https://github.com/viedamayanti/Data-Glacier-Data-Analyst-Inter
 
 Assignments Week 2 Completed ✅
 
-
-
 Week 3
 
 Project Overview
@@ -97,3 +93,27 @@ Focus of Week 3
 This week emphasizes visualizing data to facilitate clearer insights for stockholders in their investment decision-making process. The emphasis is on showcasing visualizations derived from the Week 2 analysis.
 
 Completed Week 3 Assignments ✅
+
+Week 4
+
+Overview
+
+During Week 4, we delved into the world of machine learning, a new area for me. Our task involved creating a model for toy data—a simple dataset—and deploying it using Flask. For this, I selected a diabetes dataset from Kaggle. It's been quite a challenge understanding the intricacies of machine learning, but here's a step-by-step rundown of my progress:
+
+Importing and Understanding the Dataset: Commenced by importing and gaining an understanding of the dataset's structure and content.
+
+Analyzing the Dataset (EDA - Exploratory Data Analysis): Performed exploratory data analysis to extract insights and patterns from the dataset.
+
+Data Preprocessing: Checked for null values and duplicates, replaced '0' values with NaN to prevent interference with calculations, and subsequently replaced them with mean or median values to eliminate null values within the dataset.
+
+Data Visualization and Feature Outcome Analysis: Utilized data visualization techniques and explored linear relationships between features and the outcome variable.
+
+Data Splitting and Feature Analysis: Split the data and started identifying features affecting the outcome, focusing on predicting whether individuals have diabetes or not.
+
+Model Selection: Currently experimenting with different machine learning models to determine the most effective one for predicting diabetes.
+
+Ongoing Work: Continuously progressing through the model development phase, focusing on backend development without the frontend component.
+
+Tools Used: Python, Jupyter Notebook.
+
+Note: Work is still in progress, particularly in developing the model without integrating the frontend aspect.
