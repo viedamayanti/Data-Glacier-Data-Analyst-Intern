@@ -18,7 +18,7 @@ Agile Quiz: Completion of an Agile quiz to test understanding of Agile methodolo
 
 Assignment link : https://github.com/viedamayanti/Data-Glacier-Data-Analyst-Intern/tree/main/Week1
 
-Assignments Completed ✅
+Assignments week 1 Completed ✅
 
 Week 2
 
@@ -92,28 +92,36 @@ PowerPoint Presentation: A slide deck summarizing findings and insights derived 
 Focus of Week 3
 This week emphasizes visualizing data to facilitate clearer insights for stockholders in their investment decision-making process. The emphasis is on showcasing visualizations derived from the Week 2 analysis.
 
-Completed Week 3 Assignments ✅
+Assignments Week 3 Completed ✅
 
 Week 4
 
-Overview
+Project Overview
+Diabetes Prediction using Machine Learning and Flask Deployment
 
-During Week 4, we delved into the world of machine learning, a new area for me. Our task involved creating a model for toy data—a simple dataset—and deploying it using Flask. For this, I selected a diabetes dataset from Kaggle. It's been quite a challenge understanding the complexity of machine learning, but here's a step-by-step rundown of my progress:
+In this repository, I explore the process of building a machine learning model for diabetes prediction using the Kaggle diabetes dataset. The project involves data preprocessing, exploratory data analysis (EDA), visualization, model training, and deployment using Flask.
 
-1. Importing and Understanding the Dataset:I am importing the dataset and focused on getting to know the structure and information within the dataset. It involves on understanding each column and how the data organized.
+Key Steps:
 
-2. Analyzing the Dataset (EDA - Exploratory Data Analysis): Performed exploratory data analysis to extract insights and patterns from the dataset.
+Data Exploration: Importing and understanding the diabetes dataset using Pandas, exploring columns, handling missing values, and duplicates.
 
-3. Data Preprocessing: Checked for null values and duplicates, replaced '0' values with NaN to prevent interference with calculations, and subsequently replaced them with mean or median values to eliminate null values within the dataset.
+Visualization: Visualizing data to understand correlations between features and the outcome.
 
-4. Data Visualization and Feature Outcome Analysis: Utilized data visualization techniques and explored linear relationships between features and the outcome variable.
+Data Preprocessing: Standardizing data for improved model performance.
 
-5. Data Splitting and Feature Analysis: Split the data and started identifying features affecting the outcome, focusing on predicting whether individuals have diabetes or not.
+Model Training: Experimenting with various machine learning models (Logistic Regression, KNN, SVC, Naive Bayes, Decision Tree, Random Forest) to find the best performer.
 
-6. Model Selection: Currently experimenting with different machine learning models to determine the most effective one for predicting diabetes.
+Model Evaluation: Assessing model accuracy and choosing the KNN model with a 77% accuracy.
 
-7. Ongoing Work: Continuously progressing through the model development phase, focusing on backend development without the frontend component.
+Deployment: Challenges faced and overcome while deploying the model using Flask and integrating it with the frontend for user input and prediction.
 
-Tools Used: Python, Jupyter Notebook.
+Objective: The primary goal is to predict whether a user is likely to have diabetes or not based on specific input features, facilitating early diagnosis and potential preventative measures.This repository showcasing the complete process from data handling to model deployment for predicting diabetes."
 
-Note: Work is still in progress, particularly in developing the model without integrating the frontend aspect.
+Tools Used:
+Backend
+Python, Jupyter Notebook, Flask
+
+Frontend
+HTML, CSS, Javascript
+
+Assignments Week 4 Completed ✅
