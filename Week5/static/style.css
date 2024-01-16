@@ -1,0 +1,52 @@
+body {
+  background-color: #5fc9ab;
+  font-family: Verdana;
+  font-size: 15px;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  height: 100vh;
+  justify-content: center;
+}
+
+#title {
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+  font-size: 25px;
+  margin: 0;
+  padding: 0;
+  padding-bottom: 20px;
+}
+.container {
+  border: white solid 3px;
+  justify-content: left;
+  padding: 35px;
+  border-radius: 10px;
+}
+
+.prediction_form {
+  display: grid;
+}
+
+.prediction_form input {
+  height: 25px;
+  margin-top: 10px;
+  border: white 2px solid;
+}
+#predictionResult {
+  text-align: center;
+  margin-bottom: 30px;
+}
+.button {
+  padding-top: 20px;
+  text-align: center;
+}
+#submitBtn {
+  background: white;
+  color: black;
+  border: 1px solid white;
+  border-radius: 20px;
+  width: 100px;
+  height: 30px;
+  align-items: center;
+}

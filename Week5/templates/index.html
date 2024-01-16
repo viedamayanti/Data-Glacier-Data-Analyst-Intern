@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static', filename='/style.css') }}"
+    />
+    <title>Diabetes Prediction</title>
+  </head>
+  <body>
+    <section class="container">
+      <header>
+        <h1 id="title">Diabetes Prediction</h1>
+      </header>
+      <form action="{{url_for('predict')}}" method="post">
+        <div class="prediction_form">
+          <label id="pregnancies" for="pregnancies-level" name="pregnancies"
+            >Pregnancies :</label
+          >
+          <input
+            type="text"
+            id="pregnancies-level"
+            placeholder="Enter ypur pregnancies level"
+            name="pregnancies"
+            required
+            size="30"
+          />
+          <br />
+          <label id="glucose" for="glucose-level" name="glucose"
+            >Glucose level:</label
+          >
+          <input
+            type="text"
+            id="glucose-level"
+            placeholder="Enter ypur glucose level"
+            name="glucose"
+            required
+            size="30"
+          />
+          <br />
+          <label
+            id="blood_pressure"
+            for="blood_pressure-level"
+            name="blood_pressure"
+            >Blood Pressure:</label
+          >
+          <input
+            type="text"
+            id="blood_pressure-level"
+            placeholder="Enter ypur blood pressure level"
+            name="blood_pressure"
+            required
+            size="30"
+          />
+          <br />
+          <label
+            id="skin_thickness"
+            for="skin_thickness-level"
+            name="skin_thickness"
+            >Skin Thickness:</label
+          >
+          <input
+            type="text"
+            id="skin_thickness-level"
+            placeholder="Enter ypur skin_thickness level"
+            name="skin_thickness"
+            required
+            size="30"
+          />
+          <br />
+          <label id="insulin" for="insulin-level" name="insulin"
+            >Insulin:</label
+          >
+          <input
+            type="text"
+            id="insulin-level"
+            placeholder="Enter your insulin level"
+            name="insulin"
+            required
+            size="30"
+          />
+          <br />
+
+          <label id="bmi" for="bmi-level" name="bmi">BMI:</label>
+          <input
+            type="text"
+            id="bmi-level"
+            placeholder="Enter your bmi level"
+            name="bmi"
+            required
+            size="30"
+          />
+          <br />
+          <label
+            id="diabetesPedigree"
+            for="diabetesPedigree-level"
+            name="diabetesPedigree"
+            >Diabetes Pedigree:</label
+          >
+          <input
+            type="text"
+            id="diabetesPedigree-level"
+            placeholder="Enter ypur diabetes pedigree level"
+            name="diabetesPedigree"
+            required
+            size="30"
+          />
+          <br />
+
+          <label id="age" for="age" name="age">Age:</label>
+          <input
+            type="text"
+            id="age"
+            placeholder="Enter your Age"
+            name="age"
+            size="30"
+          />
+        </div>
+        <br />
+        <div class="button">
+          <button id="submitBtn">Predict</button>
+        </div>
+        <div id="predictionResult"><h2>{{prediction_text}}</h2></div>
+      </form>
+    </section>
+  </body>
+  <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</html>

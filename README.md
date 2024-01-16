@@ -111,7 +111,7 @@ Data Preprocessing: Standardizing data for improved model performance.
 
 Model Training: Experimenting with various machine learning models (Logistic Regression, KNN, SVC, Naive Bayes, Decision Tree, Random Forest) to find the best performer.
 
-Model Evaluation: Assessing model accuracy and choosing the KNN model with a 77% accuracy.
+Model Evaluation: Assessing model accuracy and choosing the Random forest model with a 76% accuracy.
 
 Deployment: Challenges faced and overcome while deploying the model using Flask and integrating it with the frontend for user input and prediction.
 
@@ -125,3 +125,17 @@ Frontend
 HTML, CSS, Javascript
 
 Assignments Week 4 Completed ✅
+
+Week 5
+
+Project Overview
+Diabetes Prediction using Machine Learning deployment using Flask, Docker and Heroku
+
+Tools Used:
+Backend
+Python, Jupyter Notebook, Flask, Docker
+
+Frontend
+HTML, CSS, Javascript
+
+Assignments Week 5 Completed ✅
